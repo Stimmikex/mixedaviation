@@ -1,8 +1,9 @@
 # MixedAviation
 ## Authors
 
-Team Leader: Adrian Sarbach\
-Styrmir Óli Þorsteinsson
+Team Leader: Adrian Sarbach \
+Styrmir Óli Þorsteinsson \
+Rohit Koonireddy
 
 ## Description
 
