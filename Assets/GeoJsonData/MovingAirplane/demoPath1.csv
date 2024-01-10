@@ -1,0 +1,8 @@
+time [sec], x, y, z,status
+0,0,0,0,green
+5,1,0,0,green
+10,1,0,1,orange
+15,-1,0,1,red
+20,0,0,-1,red
+25,1,0,-1,orange
+30,0,0,0,green

@@ -1,0 +1,56 @@
+{
+    "airportlist" : [
+        {
+            "airport_id": 316432,
+            "airport_ident": "CH-0002",
+            "type": "small_airport",
+            "name": "Altiport de Croix de Coeur",
+            "latitude_deg": 46.12338,
+            "longitude_deg": 7.23425,
+            "elevation_ft": null,
+            "municipality": null,
+            "iata_code": null
+        },
+        {
+            "airport_id": 319833,
+            "airport_ident": "CH-0003",
+            "type": "small_airport",
+            "name": "Altisurface du Glacier de Prasfleuri",
+            "latitude_deg": 46.064289,
+            "longitude_deg": 7.354317,
+            "elevation_ft": null,
+            "municipality": null,
+            "iata_code": null
+        },
+        {
+            "airport_id": 43117,
+            "airport_ident": "CH-0001",
+            "type": "heliport",
+            "name": "San Vittore Heliport",
+            "latitude_deg": 46.2316246033,
+            "longitude_deg": 9.0895318985,
+            "elevation_ft": null,
+            "municipality": "San Vittore",
+            "iata_code": null,
+            "runways": [
+                {
+                    "runway_id": 318085,
+                    "length_ft": 82.0,
+                    "width_ft": 82.0,
+                    "surface": "Concrete",
+                    "lighted": 1,
+                    "le_ident": "H1",
+                    "le_latitude_deg": null,
+                    "le_longitude_deg": null,
+                    "le_elevation_ft": null,
+                    "le_heading_degT": null,
+                    "he_ident": null,
+                    "he_latitude_deg": null,
+                    "he_longitude_deg": null,
+                    "he_elevation_ft": null,
+                    "he_heading_degT": null
+                }
+            ]
+        }
+    ]
+}
