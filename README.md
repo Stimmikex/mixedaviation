@@ -26,7 +26,9 @@ you can also get the latest release of the project with this zip link: https://d
 After getting all the needed components you'll need to set the maps and object to the scripts but if you don't want to go for that the latest-release is the way to go. \
 With that the project should run and start after building. to build you'll need to change to Windows Universal (set the build information to Release and ARM64) \  
 Now you can run it and get in on the hololens.
-
+## Final Report
+Report link: https://polybox.ethz.ch/index.php/s/wKaKt5EDnjjFWVL \
+Poster link: https://polybox.ethz.ch/index.php/s/kwWG1PZ9eiZ1A9S
 ## Demo
 Here are some demo videos of the application. \
 Here is the vuforia demo: https://drive.google.com/file/d/1Qo0cB5aABopoFyQsn_xpDimkajS_FwYF/view?usp=sharing \
